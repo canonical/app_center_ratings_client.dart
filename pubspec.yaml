@@ -14,7 +14,7 @@ dependencies:
   grpc: ^3.1.0
   meta: ^1.7.0
   protobuf: ^3.0.0
-  protoc_plugin: ^21.0.1
+  protoc_plugin: ^25.0.0
 
 
 
